@@ -12,3 +12,5 @@ female(){
 }
 let gender = new Gender();
 gender.female();
+
+module.exports = Gender;

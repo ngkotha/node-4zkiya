@@ -10,3 +10,5 @@ function voting(){
 }
 voting()
 console.log(`first function`);
+
+module.exports = voting;

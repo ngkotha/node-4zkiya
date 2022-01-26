@@ -9,6 +9,5 @@ function voting(){
     console.log('not eligible for voting');
   }
 }
-voting();
 
 console.log(`My first Node program`);
